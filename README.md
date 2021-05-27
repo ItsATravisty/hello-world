@@ -1,3 +1,3 @@
 # hello-world
 
-Travis here, Runescape is a fun game that gets a bad rap.
+Travis here, Runescape is a great game that gets a bad rap.
